@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Adrian-glz01's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site settings
+title: Prueba presentacion
+description: Una breve prueba para practicar Markdown
+
+# Theme settings
+theme: jekyll-theme-architect
+
+# Markdown settings
+markdown: kramdown
+
+# Github Pages settings
+github:
+  repository: Adrian-glz01/Adrian-glz01.github.io
